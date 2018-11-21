@@ -1,0 +1,13 @@
+GHE Queries
+
+1.SSL and TLS Configuration.
+2.SVN Migration.
+3.DNS Configuration.
+4.Backup utilities configuration.
+5.High Availabilty Configuration,Clustering and load balancers.
+6.Disaster Recovery Configuration.
+7.Integration with JIRA,Jenkins,Docker,Confluence.
+8.Migrations from Bitbucket. 
+9.Elastic Search ?
+10.AWS Instance not picking up the block volume after it was stopped.
+
